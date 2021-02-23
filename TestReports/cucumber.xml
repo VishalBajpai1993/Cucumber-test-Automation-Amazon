@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="16.039884">
+<testcase classname="End to End Functional Test" name="Product Search and add to shopping cart" time="16.039884">
+<skipped><![CDATA[Given user is on Home Page..................................................passed
+When he search for "Dell Laptop" under category "Electronics"...............passed
+And Apply multiple filters..................................................passed
+And Get total number of search results as output............................undefined
+And Get the discount offered by seller for first two page...................undefined
+And choose to buy the first item............................................skipped
+And Add product to shopping cart............................................skipped
+And User clicks on shopping cart............................................skipped
+And Cliks on proceed to check out...........................................skipped
+Then User should be asked to login before checkout..........................skipped
+]]></skipped>
+</testcase>
+</testsuite>
